@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="spigot-1.14.3" level="project" />
+    <orderEntry type="library" name="craftbukkit-1.13.2" level="project" />
   </component>
 </module>

@@ -12,6 +12,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.plugin.Plugin;
 import thirtyvirus.multiversion.Sound;
+import thirtyvirus.multiversion.Version;
 import thirtyvirus.multiversion.XMaterial;
 import thirtyvirus.tmt.TooManyTrees;
 
@@ -168,7 +169,8 @@ public final class Utilities {
             Block b2 = l.add(0,-1,0).getBlock();
 
             // make sure that the block the player's feet is at is air
-            if (!(b.getType() == Material.AIR || b.getType() == Material.CAVE_AIR || b.getType() == Material.GRASS)) continue;
+            if (!Version.getVersion().isBiggerThan(Version.v1_12) && (!(b.getType() == Material.AIR || b.getType() == Material.GRASS))) continue;
+            if (Version.getVersion().isBiggerThan(Version.v1_12) && (!(b.getType() == Material.AIR || b.getType() == Material.CAVE_AIR || b.getType() == Material.GRASS))) continue;
 
             if (b2.getType() == Material.WATER) {
                 if (!TooManyTrees.scaffold) continue;

@@ -2,69 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0ce5c15-c524-4ca8-b606-87a703923e5f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/API.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/BookUtil_1_14_4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/BookUtil_1_8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/BookUtil_1_9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/ReflectionUtils$DataType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/ReflectionUtils$PackageType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/ReflectionUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/Sound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/Version.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/multiversion/XMaterial.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/TooManyTrees$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/TooManyTrees.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/commands/MainPluginCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/events/block/BlockClick.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/events/chat/TabComplete.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/events/inventory/InventoryClick.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/ActionSound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/MenuUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/multiversion/API.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/multiversion/Sound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/multiversion/Version$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/multiversion/Version.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/multiversion/XMaterial.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/SimpleSorting$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/SimpleSorting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/commands/Sort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/events/block/BlockClick.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/events/chat/TabComplete.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/events/inventory/InventoryClick.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/ActionSound.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/BookUtil_1_8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/BookUtil_1_9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/ItemComparator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/MenuUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/ReflectionUtils$DataType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/ReflectionUtils$PackageType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/ReflectionUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/Utilities$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/thirtyvirus/ss/helpers/Utilities.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_14_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Simple_Sorting/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/events/block/BlockClick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/events/inventory/InventoryClick.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/craftbukkit_1_8_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/craftbukkit_1_9_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/events/block/BlockClick.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/events/inventory/InventoryClick.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/TemplatePlugin.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/TooManyTrees.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/commands/MainPluginCommand.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/commands/MainPluginCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/events/chat/TabComplete.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/events/chat/TabComplete.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/helpers/ActionSound.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/ActionSound.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/helpers/MenuUtils.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/MenuUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/thirtyvirus/template/helpers/Utilities.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Simple_Sorting_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Simple_Sorting_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/craftbukkit_1_13_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/TooManyTrees.class" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/TooManyTrees.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/commands/MainPluginCommand.class" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/commands/MainPluginCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/events/chat/TabComplete.class" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/events/chat/TabComplete.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities$1.class" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities.class" afterPath="$PROJECT_DIR$/out/production/Plugin_Template/thirtyvirus/tmt/helpers/Utilities.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Plugin_Template.iml" afterPath="$PROJECT_DIR$/Plugin_Template.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.yml" afterPath="$PROJECT_DIR$/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language.yml" afterPath="$PROJECT_DIR$/language.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.yml" afterPath="$PROJECT_DIR$/plugin.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java" afterPath="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,15 +26,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TooManyTrees.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TooManyTrees.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/TooManyTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="578">
+              <caret line="53" column="78" lean-forward="false" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1854#1855#0" expanded="true" />
-                <element signature="e#1911#1912#0" expanded="true" />
+                <element signature="e#741#757#0" expanded="true" />
                 <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
                 <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
                 <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -98,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPluginCommand.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainPluginCommand.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/commands/MainPluginCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="218">
+              <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,8 +59,10 @@
         <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/events/chat/TabComplete.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-              <folding />
+              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,8 +70,8 @@
       <file leaf-file-name="Utilities.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1189">
-              <caret line="201" column="59" lean-forward="false" selection-start-line="201" selection-start-column="59" selection-end-line="201" selection-end-column="59" />
+            <state relative-caret-position="568">
+              <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,10 +133,10 @@
         <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/events/block/BlockClick.java" />
         <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/events/inventory/InventoryClick.java" />
         <option value="$PROJECT_DIR$/config.yml" />
-        <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java" />
         <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/events/chat/TabComplete.java" />
         <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/commands/MainPluginCommand.java" />
         <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/TooManyTrees.java" />
+        <option value="$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java" />
       </list>
     </option>
   </component>
@@ -217,7 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -428,7 +375,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -436,7 +383,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4032258" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../imports/spigot-suite/spigot-1.14.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../imports/craftbukkit-suite/craftbukkit-1.8.8.jar!/" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -708,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571519629891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="made plugin base features work">
+      <created>1573173561610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573173561610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -722,7 +676,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984716" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -736,11 +690,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1847233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1847233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13712242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969603" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13831478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -752,6 +705,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969603" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -764,7 +718,8 @@
     <MESSAGE value="Verifying that git is backing up every file" />
     <MESSAGE value="updated a few things after find ing flaws in template making swapperplus" />
     <MESSAGE value="updated links again" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated links again" />
+    <MESSAGE value="made plugin base features work" />
+    <option name="LAST_COMMIT_MESSAGE" value="made plugin base features work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -798,8 +753,7 @@
           <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -836,8 +790,7 @@
           <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -874,8 +827,7 @@
           <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -912,8 +864,7 @@
           <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -943,8 +894,7 @@
           <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -966,8 +916,7 @@
           <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
             <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
             <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
@@ -1069,7 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,10 +1052,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/events/chat/TabComplete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/TooManyTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="53" column="78" lean-forward="false" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#741#757#0" expanded="true" />
+            <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
+            <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
+            <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
+            <element signature="method#loadLangFile#0;class#TooManyTrees#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/helpers/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="201" column="59" lean-forward="false" selection-start-line="201" selection-start-column="59" selection-end-line="201" selection-end-column="59" />
+        <state relative-caret-position="568">
+          <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1117,34 +1089,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/commands/MainPluginCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="218">
+          <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/events/chat/TabComplete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thirtyvirus/tmt/TooManyTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
-            <element signature="method#onDisable#0;class#TooManyTrees#0" expanded="false" />
-            <element signature="method#registerCommands#0;class#TooManyTrees#0" expanded="false" />
-            <element signature="method#registerEvents#0;class#TooManyTrees#0" expanded="false" />
-            <element signature="method#loadLangFile#0;class#TooManyTrees#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1228,7 +1176,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spigot-1.14.3</last-edited>
+          <last-edited>craftbukkit-1.13.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
