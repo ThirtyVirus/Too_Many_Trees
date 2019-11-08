@@ -1,4 +1,4 @@
-# TemplatePlugin for Craftbukkit / Spigot
+# TooManyTrees for Craftbukkit / Spigot
 # Author: Brandon (ThirtyVirus) Calabrese
 #
 # YouTube:      https://youtube.com/thirtyvirus
@@ -6,10 +6,7 @@
 # SpigotMC:     https://spigotmc.org/members/179587/
 
 # FILE: config.yml
-# These are the settings for TemplatePlugin. Change whatever you like but do not remove any
+# These are the settings for TooManyTrees. Change whatever you like but do not remove any
 # non-comment lines, as this will result in errors.
 
-plugin-prefix: "&c&l[&5&lTemplatePlugin&c&l] &8&l"
-
-# Custom Setting
-custom-setting: false
+plugin-prefix: "&c&l[&5&lTooManyTrees&c&l] &8&l"
